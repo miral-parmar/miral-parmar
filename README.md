@@ -14,10 +14,10 @@
     <a href="https://miral-parmar.github.io" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-miral--parmar.github.io-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f172a" alt="Portfolio" />
     </a>
-    <a href="https://linkedin.com/in/miral-parmar" target="_blank">
+    <a href="https://www.linkedin.com/in/miral-parmar-9a0b062a6" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Miral%20Parmar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn" />
     </a>
-    <img src="https://komarev.github.io/github-profile-visitor-counter/?username=miral-parmar&label=PROFILE%20VIEWS&color=a855f7&style=for-the-badge&labelColor=0f172a" alt="Visitor Counter" />
+    <img src="https://komarev.com/ghpvc/?username=miral-parmar&label=PROFILE%20VIEWS&color=a855f7&style=for-the-badge&labelColor=0f172a" alt="Visitor Counter" />
   </p>
 
   <!-- Typing Animation -->
@@ -94,16 +94,16 @@ I am a forward-thinking **Full-Stack Web Developer**, **AI Developer**, and **SE
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=miral-parmar&show_icons=true&theme=tokyonight&locale=en&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=e2e8f0&border_color=374151&hide_border=false" alt="Miral's GitHub Stats" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=miral-parmar&show_icons=true&theme=tokyonight" alt="Miral's GitHub Stats" width="100%"/>
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miral-parmar&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=e2e8f0&border_color=374151&hide_border=false" alt="Miral's Top Languages" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miral-parmar&layout=compact&theme=tokyonight" alt="Miral's Top Languages" width="100%"/>
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
         <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=miral-parmar&theme=tokyonight&background=0d1117&ring=a855f7&fire=06b6d4&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=e2e8f0&dates=a855f7" alt="GitHub Streak Stats" width="100%"/>
+        <img src="https://streak-stats.demolab.com/?user=miral-parmar&theme=tokyonight" alt="GitHub Streak Stats" width="100%"/>
       </td>
     </tr>
   </table>
@@ -121,8 +121,8 @@ Feel free to reach out for collaboration on full-stack products, AI automations,
 | Channel | Contact Point | Action |
 | :--- | :--- | :--- |
 | 🌐 **Portfolio** | [miral-parmar.github.io](https://miral-parmar.github.io) | [Visit Website ↗](https://miral-parmar.github.io) |
-| 💼 **LinkedIn** | [linkedin.com/in/miral-parmar](https://linkedin.com/in/miral-parmar) | [Connect ↗](https://linkedin.com/in/miral-parmar) |
-| 📧 **Direct Email** | [miralparmar.work@gmail.com](mailto:miralparmar.work@gmail.com) | [Send Mail ✉](mailto:miralparmar.work@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/miral-parmar-9a0b062a6](https://linkedin.com/in/miral-parmar-9a0b062a6) | [Connect ↗](https://linkedin.com/in/miral-parmar-9a0b062a6) |
+| 📧 **Direct Email** | [miralparmar.work@gmail.com](mailto:parmarmir2005@gmail.com) | [Send Mail ✉](mailto:parmarmir2005@gmail.com) |
 
 </div>
 
